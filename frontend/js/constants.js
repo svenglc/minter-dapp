@@ -1,9 +1,9 @@
 const contractAddress = "0x082f8697474E92415FAe25aa9DE6591De1E1BFe8"; //Replace with your own contract address
 const chain = 'rinkeby'; // rinkeby or polygon
 
-const welcome_h1 = "Welcome to the andothercats NFT Project!!";
+const welcome_h1 = "Welcome to the andothercats NFT collection!!";
 const welcome_h2 = "Connect to MetaMask to Get Started";
-const welcome_p = 'The andothercats NFT Project is a decentralized art collection project that aims to create cute little cat pictures for you.';
+const welcome_p = 'The andothercats NFT is a decentralized art collection project that aims to create cute little cat pictures for you.';
 const h1_presale_coming_soon = "NFT Drop Coming Soon!!";
 const h1_presale_mint = "Pre-Sale Minting Open!!";
 const h1_public_mint = "Public Minting Open!!";
